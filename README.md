@@ -5,6 +5,15 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  <div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/roshani9324/roshani9324/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!---
 roshani9324/roshani9324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
