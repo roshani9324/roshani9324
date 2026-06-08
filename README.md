@@ -30,8 +30,8 @@
 - Data & AI: Python, Power BI, Tableau, Jupyter Notebook
 
 📫 Reach me:
-- Email: your-email@example.com
-- LinkedIn: Your LinkedIn Profile URL
+- Email: roshanimaurya9324@gmail.com 
+- LinkedIn: (https://www.linkedin.com/in/roshani-maurya-753a9b287/)
 
 😄 Pronouns: She/Her
 
