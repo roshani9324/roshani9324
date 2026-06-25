@@ -32,6 +32,7 @@
 📫 Reach me:
 - Email: roshanimaurya9324@gmail.com 
 - LinkedIn: (https://www.linkedin.com/in/roshani-maurya-753a9b287/)
+- Portfoli: https://roshani9324.github.io/portfolio-/
 
 😄 Pronouns: She/Her
 
