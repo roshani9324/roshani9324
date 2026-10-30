@@ -1,40 +1,27 @@
-# Hi there, I'm Roshani Maurya 👋
+# 💫 About Me:
+🎓 Artificial Intelligence & Data Science Student at Thakur College of Engineering and Technology (TCET)<br><br>💻 Passionate about Web Development, Full Stack Development, Artificial Intelligence, and Data Analytics<br><br>🚀 Currently learning:<br><br>React.js & Full Stack Development<br>DevOps Fundamentals<br>AWS <br>Data Structures & Algorithms (DSA)<br>AI Engineer<br><br>🔭 Working on:<br><br>Urban Water Logging Detection & Dispatch Optimization System<br>AI-Powered Smart Solutions<br>Full Stack Web Applications<br><br>💞️ Looking to collaborate on:<br><br>Open Source Projects<br>Web Development Projects<br>AI & Data Science Applications<br>Full Stack Development Projects<br>🛠️ Tech Stack:<br><br>Frontend: React.js, HTML5, CSS3, Tailwind CSS, JavaScript<br>Backend: Node.js, Express.js, Flask<br>Database: MySQL, MongoDB<br>Tools: Git, GitHub, Postman, VS Code, Firebase<br>Data & AI: Python, Power BI, Tableau, Jupyter Notebook, LLM, RAG<br>📫 Reach me:<br><br>Email: roshanimaurya9324@gmail.com<br>LinkedIn: https://www.linkedin.com/in/roshani-maurya-753a9b287/<br>Portfoli: https://roshani9324.github.io/portfolio-/<br>😄 Pronouns: She/Her<br><br>⚡ Fun Fact: I enjoy sketching, exploring new technologies, and turning innovative ideas into real-world projects.
 
-🎓 Artificial Intelligence & Data Science Student at Thakur College of Engineering and Technology (TCET)
 
-💻 Passionate about Web Development, Full Stack Development, Artificial Intelligence, and Data Analytics
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/r-oshani.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Roshani Maurya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5776.roshani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshani-maurya-753a9b287/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@52Roshani62716) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AI_scray) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshanimaurya9324@gmail.com) 
 
-🚀 Currently learning:
-- React.js & Full Stack Development
-- Shopify Development
-- DevOps Fundamentals
-- Data Structures & Algorithms (DSA)
-- AI-Powered Applications
+# 💻 Tech Stack:
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=roshani9324&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=roshani9324&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=roshani9324&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🔭 Working on:
-- Urban Water Logging Detection & Dispatch Optimization System
-- AI-Powered Smart Solutions
-- Full Stack Web Applications
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=roshani9324&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
-💞️ Looking to collaborate on:
-- Open Source Projects
-- Web Development Projects
-- AI & Data Science Applications
-- Full Stack Development Projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-🛠️ Tech Stack:
-- Frontend: React.js, HTML5, CSS3, Tailwind CSS, JavaScript
-- Backend: Node.js, Express.js, Flask
-- Database: MySQL, MongoDB
-- Tools: Git, GitHub, Postman, VS Code, Firebase
-- Data & AI: Python, Power BI, Tableau, Jupyter Notebook
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=roshani9324&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-📫 Reach me:
-- Email: roshanimaurya9324@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/roshani-maurya-753a9b287/
-- Portfoli: https://roshani9324.github.io/portfolio-/
+---
+[![](https://komarev.com/ghpvc/?username=roshani9324&icon=2&color=5)](https://visitcount.itsvg.in)
 
-😄 Pronouns: She/Her
-
-⚡ Fun Fact:
-I enjoy sketching, exploring new technologies, and turning innovative ideas into real-world projects.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
