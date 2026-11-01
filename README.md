@@ -21,7 +21,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=roshani9324&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=roshani9324&icon=2&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
